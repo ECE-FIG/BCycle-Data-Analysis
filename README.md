@@ -1,5 +1,5 @@
 # MLDS-DataHack-2019
-Worked on a team with Anqing Chen, Jason Gu, Nicholas Chu, and Nikhil Kolluri to analyze hundreds of thousands of pieces of data from Austin's BCycle system.
+Worked on a team with Anqing Chen, Jianchen Gu, Nicholas Chu, and Nikhil Kolluri to analyze hundreds of thousands of pieces of data from Austin's BCycle system.
 
 ## What it does
 -Plots and analyzes various trajectories of movement of BCycle ride data to make inferences based on ride times, paths of travel, and locations
