@@ -1,13 +1,6 @@
 # MLDS-DataHack-2019
 Worked on a team with Anqing Chen, Jianchen Gu, Nicholas Chu, and Nikhil Kolluri to analyze hundreds of thousands of pieces of data from Austin's BCycle system.
 
-## Inspiration
--Desire to learn more about how to use Python (panda) and draw conclusions from large sets of data
-
--Introduce ourselves to Data Science
-
--An interest in BCycle, because we have all used it before.
-
 ## What it does
 -Plots and analyzes various trajectories of movement of BCycle ride data to make inferences based on ride times, paths of travel, and locations
 
