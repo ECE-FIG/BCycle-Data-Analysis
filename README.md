@@ -24,5 +24,5 @@ Difficulties processing all of the data at once: due to the large size of the da
 
 -See how traffic varies on various days of the week
 
--Compare BCycle traffic data with holiday data, landmark data, etc
+-Compare BCycle traffic data with holiday data, landmark data, etc.
 
